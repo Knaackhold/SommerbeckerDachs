@@ -1,0 +1,9 @@
+/* WOOCOMMERCE */
+
+ul {
+    list-style-type: none;
+}
+.woocommerce ul.products li.product a img{
+    margin: 0 0 0 0;
+    border-radius:25% 10px;
+}
